@@ -1,0 +1,48 @@
+<doctype html>
+    <head>
+        <title>Home</title>
+        <meta charset="utf-8"/>
+        <style></style>
+        <script></script>
+        <link rel="" href="">
+    </head>
+
+     <body>
+            <header style="background-color:gray;">
+                <H1 style="text-align:center ;">Welcome to our course which is  <b style="color: red;"> Full stack developer</b></H1>    
+            </header>
+            <br>
+
+            
+            <div1 style="border: 2px solid black; border-radius: 10px; border-left-width: 10px; border-right-width: 10px; border-color: goldenrod;  padding-top: 10px; padding-bottom: 10px; margin:680px;">
+                
+                    
+                     <a href="Home.html" style="padding-left: 10px;"><b style="color: black;">Home</b></a>
+                     <a href="MohammedSalah.html" style="padding-left: 10px;"  target="_blank"><b style="color: black;">Articles exercise</b</a>
+                     <a href="Tables.html" style="padding-left: 10px;"  target="_blank"><b style="color: black;">Tables exercise</b></a>
+                     <a href="forms.hw.html" style="padding-left: 10px;" target="_blank"><b style="color: black;">Forms exercise</b></a>
+                     <a href="SING IN.html" style="padding-left: 10px; padding-right: 10px;" target="_blank"><b style="color: black;">Sign in</b></a>    
+            </div1>
+            
+            <br><br><br><br><br><br>
+            
+            <p>
+                <H2 style="color: rgb(185, 138, 7); text-align: center; padding-right: 40px;">
+                     
+                    This is a small website to show you  all our projects in first course which is <b style="color: black;">HTML</b>
+                </H2>
+            </p>
+            <br><br>
+
+            <div2 style="margin-left: 80px;">
+                    <img src="download (1).jpeg" alt="programming" width="450px" style="margin-left: 400px ;"> 
+
+                    <img src="download.jpeg" alt="programming" width="400px">
+            </div2>
+            <br><br>
+
+            <footer>
+                   <h3 style="text-align:center ;"> &#0169 Hamzah Alattas &#128526</h3>
+            </footer>
+     </body>
+</html>
